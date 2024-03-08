@@ -812,7 +812,7 @@ header nav .form:hover i {
 .stats {
     padding-top: var(--padding-px);
     padding-bottom: var(--padding-px);
-    background-image: url(/media/imgs/minecraft-1106253_1920.png);
+    background-image: url(../media/imgs/minecraft-1106253_1920.png);
     background-size: cover;
 
     /* &::before {
@@ -1090,7 +1090,7 @@ header nav .form:hover i {
     padding-top: var(--padding-px);
     padding-bottom: var(--padding-px);
 
-    background-image: url(/media/imgs/ocean.jpeg);
+    background-image: url(../media/imgs/ocean.jpeg);
     background-size: cover;
     position: relative;
 
